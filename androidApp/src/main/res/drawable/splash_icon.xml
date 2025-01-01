@@ -10,12 +10,12 @@
 -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
-        <color android:color="@color/splash_background" />
+        <color android:color="@color/white" />
     </item>
 
     <item
-        android:width="80dp"
-        android:height="80dp"
+        android:width="160dp"
+        android:height="160dp"
         android:drawable="@drawable/mifos_splash_screen_logo"
         android:gravity="center" />
 </layer-list>
